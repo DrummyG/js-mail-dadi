@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(113, 73, 141);
+}
+
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.square{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 20px;
+}
+
+#io{
+    background-color: darkturquoise;
+}
+
+#middle{
+    background-color: lightseagreen;
+    line-height: 150px;
+}
+
+#pc{
+    background-color: lightskyblue;
+}
